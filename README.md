@@ -28,7 +28,7 @@ To easily download APKs directly on your Android TV:
 
 #### Option A: Download and install manually
 1. Download the latest APK from the GitHub repository or your preferred source  
-   _(replace with your GitHub or APK link if available)_
+   _https://github.com/jsarriaa/VideoLoopTV/releases/download/1/VideoLoopTV.apk_
 2. Use **Downloader** or a USB drive to transfer and install it on your Android TV
 
 #### Option B: Build from source
