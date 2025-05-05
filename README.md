@@ -88,5 +88,3 @@ You're welcome to:
 - Add remote control features
 - Load videos from external storage or a network drive
 - Use with motion sensors, custom launchers, or scheduling apps
-
-![Logo](app/src/main/res/raw/logotioperro.PNG)
